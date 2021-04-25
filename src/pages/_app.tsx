@@ -1,6 +1,6 @@
 import { Header } from '../components/Header';
 import { Player } from '../components/Player';
-import { PlayerContextProvider } from '../../context/PlayerContext';
+import { PlayerContextProvider } from '../context/PlayerContext';
 import '../styles/global.scss';
 import styles from '../styles/app.module.scss';
 

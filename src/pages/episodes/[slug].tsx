@@ -7,7 +7,7 @@ import Head from 'next/head';
 import { api } from '../../services/api';
 import { convertDurationToTimeString } from '../../utils/convertDurationToTimeString';
 import styles from './episode.module.scss';
-import { usePlayer } from '../../../context/PlayerContext';
+import { usePlayer } from '../../context/PlayerContext';
 
 type Episode = {
 	id: string;
