@@ -10,6 +10,10 @@
   Podcastr is a platform built for podcast broadcasting.
 </h4>
 
+## 🔥 Preview
+
+[![Deploy with Vercel](https://vercel.com/button)](https://podcastr-juliamendesc.vercel.app/)
+
 ![Podcastr preview](.github/app-preview.png)
 
 ## Tecnologies
